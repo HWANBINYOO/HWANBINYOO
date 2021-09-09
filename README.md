@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?height=300&text=HAWNBIN%20YOO&desc=Hello%20capsule%20render&animation=twinkling)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme={theme})](https://github.com/{username}/github-readme-stats)
 [![html](https://img.shields.io/badge/태그에 적히는 글씨-태그색?style=flat-square&logo=로고이름&logoColor=로고색)](관련된 내 링크)
 [![html](https://img.shields.io/badge/html-#E34F26?style=flat-square&logo=html&logoColor=#E34F26)](github.com/Joowon0220/TODO-List)
 
