@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?height=300&text=HAWNBIN%20YOO&desc=Hello%20capsule%20render&animation=twinkling)
-   ![Anurag 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=HWANBINYOO123&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  <div align="center">
-[![html](https://img.shields.io/badge/html-#E34F26?style=flat-square&logo=html&logoColor=#E34F26)](github.com/Joowon0220/TODO-List)
+ <a href="https://code.visualstudio.com//" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML&logoColor=white"></a>
 
  
 
