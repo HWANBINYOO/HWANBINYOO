@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?height=300&text=HAWNBIN%20YOO&desc=Hello%20capsule%20render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?height=300&text=HAWNBIN%20YOO&desc=Hello%20capsule%20render&animation=fadeIn,scaleIn)
 
