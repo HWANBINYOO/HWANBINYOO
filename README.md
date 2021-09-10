@@ -5,8 +5,6 @@
  
  ## [HUINBAP](https://test.byun00106.repl.co)
  
- ![HWANBINYOO 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=HWANBINYOO&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
- 
   
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HWANBINYOO&show_icons=true&locale=en&" alt="chanwoo00106" /></p>
 
