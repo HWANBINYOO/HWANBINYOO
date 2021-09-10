@@ -6,9 +6,7 @@
   ## 💻 Stats
 ![hawnbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HWANBINYOO&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=HWANBINYOO&hide_border=true&layout=compact)
-  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HWANBINYOO&show_icons=true&locale=en&" alt="chanwoo00106" /></p>
-
+ 
   ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
 
 
