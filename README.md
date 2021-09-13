@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&text=HAWNBIN%20YOO&desc=Hello%20Hello&animation=twinkling)
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%HAWNBIN20YOO&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HAWNBIN%20YOO&fontSize=90&animation=twinkling)
 
 <div align="center">
   
