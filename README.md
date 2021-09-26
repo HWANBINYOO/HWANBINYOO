@@ -12,7 +12,7 @@
  
   ![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
   
- ![snake?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)![snake?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
+ ![snake?](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
 
 
