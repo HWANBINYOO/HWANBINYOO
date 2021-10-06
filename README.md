@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=HHAWNBIN%20YOO&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=HHAWNBIN%20YoOO&fontSize=90&animation=twinkling)
 
 <div align="center">
   
