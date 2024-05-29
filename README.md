@@ -9,7 +9,7 @@
 <a href="https://open.spotify.com/user/31pfopcom3ygu2squf5awfc2fha4?si=9c3b3606c83a4178" target="_blank"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/></a>   
 
 Gwangju Software Meister High School<sup><a href="https://toss.im">⤴</a></sup> <sub>(2021.03 ~ 2024.01)</sub>    
-Infludeo<sup><a href="https://toss.im">⤴</a></sup><sub>(2024.02 ~ )</sub>
+Infludeo<sup><a href="https://toss.im">⤴</a></sup> <sub>(2024.02 ~ )</sub>
 
 __
 
